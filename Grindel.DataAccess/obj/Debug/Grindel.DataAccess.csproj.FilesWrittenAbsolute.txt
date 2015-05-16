@@ -1,0 +1,5 @@
+/Users/edfbeck/Projects/Grindel/Grindel.DataAccess/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/edfbeck/Projects/Grindel/Grindel.DataAccess/bin/Debug/Grindel.DataAccess.dll.mdb
+/Users/edfbeck/Projects/Grindel/Grindel.DataAccess/bin/Debug/Grindel.DataAccess.dll
+/Users/edfbeck/Projects/Grindel/Grindel.DataAccess/obj/Debug/Grindel.DataAccess.dll
+/Users/edfbeck/Projects/Grindel/Grindel.DataAccess/obj/Debug/Grindel.DataAccess.dll.mdb
